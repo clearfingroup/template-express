@@ -1,0 +1,1 @@
+Default project template for Express applications.
